@@ -1,0 +1,42 @@
+.wrapper{
+			width: 90%;
+			margin: 80px auto;
+		}
+		body{
+			background: url(../img/bg.png);
+			background-size: cover; 
+		}
+		.contact{
+			float: right;
+			margin-bottom: 0;
+			color: #fff;
+		}
+		.contact h3{
+			margin-top: 68px;
+			margin-bottom: 0px;
+		}
+		.contact p{
+			margin: 5px;
+
+		}
+		.content{
+			color: #fff;
+		}
+		.content a{
+			text-decoration: none;
+			color: #fff;
+		}
+		.content img{
+			border: 5px solid silver;
+			padding: 1px;
+			margin: 0 15px;
+		}
+		.content div{
+			margin-bottom: 50px;
+			display: inline-block;
+		}
+		.footer{
+			clear: both;
+			color: #fff;
+			margin-top: 30px;
+		}
